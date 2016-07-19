@@ -1,0 +1,6 @@
+$customColor: red;
+	
+	h1
+	{
+		color: &customColor;
+	}
